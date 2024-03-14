@@ -1,0 +1,4 @@
+# Project exclude paths
+/nm-common-util/nm-common-core/target/
+/nm-common-util/nm-common-modules/target/
+/nm-dataimport-service/target/

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4ac9942-3c6f-4ec4-940d-696426b5107b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\IDEA\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ZHuVdQtIksREJdmGavMs0ccFrH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.bigdata.framework.core.utils" />
+      <recent name="org.bigdata.framework.core.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORKSPACE\phda-dataimport\nm-dataimport-service\src\main\java\org\bigdata\framework\core\mapper" />
+      <recent name="D:\WORKSPACE\phda-dataimport\nm-dataimport-service\src\main\java\org\bigdata\framework\core\domain" />
+      <recent name="D:\WORKSPACE\phda-dataimport\nm-dataimport-service\src\main\java\org\bigdata\framework\core\service" />
+      <recent name="D:\WORKSPACE\phda-dataimport\nm-dataimport-service\src\main\java\org\bigdata\framework\core\service\impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OtherController">
+    <configuration name="OtherController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bigdata.framework.core.controller.OtherController" />
+      <module name="nm-dataimport-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bigdata.framework.core.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemServiceStart" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="nm-dataimport-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.bigdata.framework.core.SystemServiceStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OtherController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4ac9942-3c6f-4ec4-940d-696426b5107b" name="Default Changelist" comment="" />
+      <created>1702091351719</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702091351719</updated>
+      <workItem from="1702091353054" duration="9020000" />
+      <workItem from="1702546778708" duration="730000" />
+      <workItem from="1702884789746" duration="647000" />
+      <workItem from="1703561038470" duration="1729000" />
+      <workItem from="1703585822138" duration="1279000" />
+      <workItem from="1703752226763" duration="193000" />
+      <workItem from="1704191441498" duration="1966000" />
+      <workItem from="1705566974914" duration="18928000" />
+      <workItem from="1706678198924" duration="24000" />
+      <workItem from="1709001184388" duration="9953000" />
+      <workItem from="1709104479027" duration="14000" />
+      <workItem from="1710385593177" duration="347000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1702091401988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702091401988</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1702094811400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702094811400</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1702102949834</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702102949834</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1702104917979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702104917979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改hdfs大小的判断">
+      <created>1703587087094</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703587087094</updated>
+    </task>
+    <task id="LOCAL-00006" summary="修改hdfs大小的判断">
+      <created>1703752373641</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703752373641</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加solr配置">
+      <created>1704191515550</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704191515550</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加转移说明">
+      <created>1704244570595</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704244570595</updated>
+    </task>
+    <task id="LOCAL-00009" summary="添加其他来源数据功能">
+      <created>1705628298619</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1705628298619</updated>
+    </task>
+    <task id="LOCAL-00010" summary="添加说明">
+      <created>1705628352358</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1705628352358</updated>
+    </task>
+    <task id="LOCAL-00011" summary="添加下载ftp数据的功能">
+      <created>1705643925413</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1705643925413</updated>
+    </task>
+    <task id="LOCAL-00012" summary="添加dict_item的发布方法">
+      <created>1709011031745</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709011031745</updated>
+    </task>
+    <task id="LOCAL-00013" summary="添加执行说明">
+      <created>1709011332309</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709011332309</updated>
+    </task>
+    <task id="LOCAL-00014" summary="添加执行说明">
+      <created>1709017342858</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709017342858</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改hdfs大小的判断" />
+    <MESSAGE value="添加solr配置" />
+    <MESSAGE value="添加转移说明" />
+    <MESSAGE value="添加其他来源数据功能" />
+    <MESSAGE value="添加说明" />
+    <MESSAGE value="添加下载ftp数据的功能" />
+    <MESSAGE value="添加dict_item的发布方法" />
+    <MESSAGE value="添加执行说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加执行说明" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="94" key="#Project_Structure" timestamp="1702103740680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1702103740680" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1709010506104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1709010506104" />
+    <state x="460" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1702100874041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1702100874041" />
+    <state x="680" y="104" width="828" height="832" key="CommitChangelistDialog2" timestamp="1709017340786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="680" y="104" width="828" height="832" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1709017340786" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1703752346331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1703752346331" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1709104491702">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1709104491702" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1709096385607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1709096385607" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1709096385607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1709096385607" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1709096385607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1709096385607" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1709096385607">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1709096385607" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1706149358593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1706149358593" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1706149358593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1706149358593" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1706149358593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1706149358593" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1706149358593">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1706149358593" />
+    <state x="586" y="221" key="RollbackChangesDialog" timestamp="1702101157626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="221" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1702101157626" />
+    <state x="773" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1705643935215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1705643935215" />
+    <state x="661" y="223" width="603" height="594" key="find.popup" timestamp="1705645655729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="223" width="603" height="594" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1705645655729" />
+    <state x="655" y="275" key="refactoring.ChangeSignatureDialog" timestamp="1709014620816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="275" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1709014620816" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1709017288674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1709017288674" />
+    <state x="693" y="416" key="svn.passwordDialog" timestamp="1702104833880">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="416" key="svn.passwordDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1702104833880" />
+  </component>
+</project>
